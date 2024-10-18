@@ -133,6 +133,3 @@ To run this project, simply execute the provided SQL queries in sequence on your
 2. Run each SQL query to clean and transform the data.
 3. Use the final cleaned dataset for analysis or reporting purposes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
